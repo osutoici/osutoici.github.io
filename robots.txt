@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://osutoici.github.io/ROf/sitemap_index.txt
+Sitemap: https://osutoici.github.io/VJY/sitemap_index.txt
+Sitemap: https://osutoici.github.io/pBC/sitemap_index.txt
+Sitemap: https://osutoici.github.io/vNB/sitemap_index.txt
